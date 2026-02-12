@@ -63,13 +63,16 @@ public class StreamString {
 		
 		
 		
-//		// count of each words....
-//		List<String> words = List.of("apple", "level", "madam", "grape", "apricot");
-//		Map<String, Integer> collect = words.stream()
-//											.collect(Collectors.toMap(str->str, str->str.length()));
-//		System.out.println(collect);
+		// // count of each words characters....
+		// List<String> words = List.of("apple", "level", "madam", "grape", "apricot");
+		// Map<String, Integer> collect = words.stream()
+		// 									.collect(Collectors.toMap(str->str, str->str.length()));
+		// System.out.println(collect);
 		
 	
+
+
+		
 		
 		
 		
