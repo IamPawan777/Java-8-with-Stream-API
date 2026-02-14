@@ -4,10 +4,6 @@
     <img src="https://img.shields.io/badge/Java-8-orange?logo=java" alt="Java 8"/> <img src="https://img.shields.io/badge/Lambda-✔️-brightgreen" alt="Lambda"/> <img src="https://img.shields.io/badge/Streams-✔️-blue" alt="Streams"/> <img src="https://img.shields.io/badge/Optional-✔️-yellow" alt="Optional"/> 
 </p>
 
----
-### [▶ Click Here: Notes](https://www.notion.so/Java-8-30089967eac580839920fb050e79f494)
----
-
 Java 8 was a revolutionary release that introduced functional programming capabilities to the Java ecosystem. This repository contains comprehensive examples, use cases, and best practices for all major Java 8 features.
 
 ## 🎯 Key Features Covered   
@@ -37,5 +33,9 @@ Java 8 was a revolutionary release that introduced functional programming capabi
 
 ### 6. Date & Time API (java.time)
 - LocalDate, LocalTime, LocalDateTime
+
+---
+### [▶ Click Here: Notes](https://www.notion.so/Java-8-30089967eac580839920fb050e79f494)
+
 
 
